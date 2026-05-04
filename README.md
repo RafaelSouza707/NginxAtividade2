@@ -10,7 +10,7 @@ Este projeto contém dois tutoriais em Markdown:
 
 - [redirecionamento_react.md](./redirecionamento_react.md)
   
-  Tutorial sobre atualização da configuração do Nginx para suportar corretamente rotas internas de uma aplicação ReactJS (SPA).
+  Tutorial sobre atualização da configuração do Nginx para suportar corretamente rotas internas de uma aplicação ReactJS.
 
 - [apache_bench.md](./apache_bench.md)
 
